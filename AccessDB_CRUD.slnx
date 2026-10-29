@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="AccessDB_CRUD/AccessDB_CRUD.csproj" />
+  <Project Path="Bubblesort/Bubblesort.csproj" Id="d8a7272a-713a-45dc-a8e1-ba897cee2a35" />
   <Project Path="ConsoleApp1/DelegateExample.csproj" Id="d3a4f6cb-eac7-4dd0-9e55-9ee4b044e0b0" />
+  <Project Path="Insertionsort/Insertionsort.csproj" Id="e880e122-eaa8-4978-8c3d-31488289a448" />
+  <Project Path="Selectionsort.cs/Selectionsort.cs.csproj" Id="c6dfc824-6359-42d5-89ae-96429f631059" />
 </Solution>
